@@ -1,16 +1,16 @@
 # HunterDao
 
-# ## Welcome To HunterDAO
+### Welcome To HunterDAO
 
 HunterDAO is a Decentralized Autonomous Organization (DAO) that invests in early NFT projects, and aims to empower the NFT industry and future creator economy.
 
-# ## Inspiration
+### Inspiration
 
 Inspired by CultDAO which invests in early Token projects, hunterDAO wanna be build a decentralized Venture Capital focused on early NFTs, to provide funds to support very potential artists and NFT creators to start their project.
 
 The DAO community determine which NFT project to invest, and all investment incomes will return to the community.
 
-# **## What it does**
+### **What it does**
 
 ### **(1) Invest to Earn**
 
@@ -34,7 +34,7 @@ For example, a protocol can call for a NFT Souvenir Design for its brand, here i
 
 HunterDAO make it possible for everyone to attend the decentralized governance, and to share the DAO benefits based on their involvement
 
-# ## Links:
+### Links:
 
 Website：[https://www.hunterdao.club/](https://www.hunterdao.club/)
 
