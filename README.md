@@ -48,7 +48,7 @@ Twitter: https://twitter.com/HunterDaoClub
 
 Email：hunterdao@hotmail.com
 
-**## Main Functions**
+## **Main Functions**
 
 **STAKE:**
 
@@ -72,19 +72,19 @@ All the Investment Return will be swapped into HUNTER tokens and 50% will be dis
 
 The third-party protocols set a Bounty Task on the DAO, and artists will submit their art works to compete, the community vote on the works.
 
-# **## How we built it**
+### How we built it**
 
 We have analyzed the market need, and current NFT industry situations and problems, then We decided to build a DAO to resolve the problems, and bring these values to the new WEB3 users.
 
-# **## Challenges we ran into**
+###  **Challenges we ran into**
 
 We find the marketing is the a challenge to us, we hope to attend in this hackathon and let our ideas known by more people. And we’d love to hear more voice and suggestion to improve the product.
 
-# **## Accomplishments that we're proud of**
+### **Accomplishments that we're proud of**
 
 We spent more than 30 days building it, and now the UI is complete, the main functions of SATKE, PROPOSAL, VOTE are ready in testnet.
 
-# **## What's next for HunterDAO**
+### **What's next for HunterDAO**
 
 -Airdrop & Launch on mainnet
 
@@ -94,10 +94,9 @@ We spent more than 30 days building it, and now the UI is complete, the main fun
 
 -Future NFT launchpad and NFT market sections
 
-# **##Who we call for?**
+### **Who we call for?**
 
 If you are an individual or institutional investor in the blockchain industry, or a designer who has great ideas but not understood by your boss or people around, of you are a person who wants to sleep until whenever you wake up, no alarm clock, no daily check-in or check-out, crabbing your phone all day just because you like. For those believing in liberty and don’t want to be managed or restricted, HunterDAO has created a new place for you. You can go any direction that you’re interested in; you can vote on the early project that you hope HunterDAO to invest, you can create your own workpiece, or just vote for the others and gain Hunter Rewards… If you like any of the ideas above, then you are welcome to join HunterDAO and become a Hunter. 
 
-# 
 
 
